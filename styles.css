@@ -1,0 +1,19 @@
+
+:root { --green:#1f6f3c; --light:#f3fbf4; }
+*{ box-sizing:border-box; font-family: Arial, Helvetica, sans-serif; }
+body{ margin:0; background:#fff; color:#111; }
+.head{ background:var(--green); color:#fff; text-align:center; padding:18px 12px; }
+.catbar{ display:flex; gap:8px; padding:10px; background:var(--light); overflow:auto; }
+.catbar button{ background:var(--green); color:#fff; border:0; padding:8px 12px; border-radius:8px; cursor:pointer; }
+.wrap{ display:flex; gap:16px; padding:12px; align-items:flex-start; }
+.menu{ flex:1; padding:10px; border:1px solid #eee; border-radius:8px; }
+.item{ display:flex; justify-content:space-between; align-items:flex-start; border-bottom:1px solid #f0f0f0; padding:10px 0; }
+.item .name{ font-weight:700; }
+.prices{ display:flex; flex-direction:column; gap:6px; min-width:260px; text-align:right; }
+.price-line{ display:flex; gap:8px; align-items:center; justify-content:flex-end; }
+.btn{ border:1px solid var(--green); background:#fff; color:var(--green); padding:6px 8px; border-radius:6px; cursor:pointer; }
+.cart{ width:320px; border:1px solid #eee; border-radius:8px; padding:12px; }
+.cart .form input, .cart .form textarea{ width:100%; padding:8px; margin:6px 0; border:1px solid #ddd; border-radius:6px; }
+.cart .form button{ width:100%; padding:10px; margin-top:6px; border-radius:6px; border:0; background:var(--green); color:#fff; cursor:pointer; }
+.total{ font-weight:700; }
+@media(max-width:900px){ .wrap{flex-direction:column;} .cart{ width:100%; } .prices{min-width:auto; text-align:left;} }

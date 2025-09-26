@@ -1,0 +1,625 @@
+{
+  "Soups": [
+    {
+      "name": "Manchaw Soup (Veg)",
+      "half": 0,
+      "full": 70
+    },
+    {
+      "name": "Manchaw Soup (Chicken)",
+      "half": 0,
+      "full": 90
+    },
+    {
+      "name": "Hot Sour Soup (Veg)",
+      "half": 0,
+      "full": 70
+    },
+    {
+      "name": "Hot Sour Soup (Chicken)",
+      "half": 0,
+      "full": 90
+    },
+    {
+      "name": "Clear Soup (Veg)",
+      "half": 0,
+      "full": 70
+    },
+    {
+      "name": "Clear Soup (Chicken)",
+      "half": 0,
+      "full": 90
+    },
+    {
+      "name": "Tomato Soup",
+      "half": 0,
+      "full": 70
+    },
+    {
+      "name": "Sweet Corn Soup (Veg)",
+      "half": 0,
+      "full": 120
+    },
+    {
+      "name": "Sweet Corn Soup (Chicken)",
+      "half": 0,
+      "full": 150
+    }
+  ],
+  "Veg Starters": [
+    {
+      "name": "Paneer Tikka",
+      "half": 90,
+      "full": 160
+    },
+    {
+      "name": "Paneer Malai Tikka",
+      "half": 100,
+      "full": 160
+    },
+    {
+      "name": "Paneer Banjara Tikka",
+      "half": 110,
+      "full": 160
+    },
+    {
+      "name": "Paneer Laziz Kebab",
+      "half": 130,
+      "full": 240
+    },
+    {
+      "name": "Special Feeling Kebab",
+      "half": 150,
+      "full": 260
+    },
+    {
+      "name": "Tandoori Mushroom",
+      "half": 100,
+      "full": 170
+    },
+    {
+      "name": "Veg Seek Kebab",
+      "half": 90,
+      "full": 150
+    }
+  ],
+  "Non-Veg Starters": [
+    {
+      "name": "Tandoori Chicken",
+      "half": 160,
+      "full": 300
+    },
+    {
+      "name": "Chicken Lollipop",
+      "half": 140,
+      "full": 180
+    },
+    {
+      "name": "Chicken Chilly",
+      "half": 140,
+      "full": 170
+    },
+    {
+      "name": "Chicken 65",
+      "half": 140,
+      "full": 170
+    },
+    {
+      "name": "Chicken Tikka",
+      "half": 160,
+      "full": 280
+    },
+    {
+      "name": "Fish Tikka",
+      "half": 130,
+      "full": 250
+    }
+  ],
+  "Chinese (Non-Veg)": [
+    {
+      "name": "Chicken Fried Rice",
+      "half": 80,
+      "full": 130
+    },
+    {
+      "name": "Chicken Sezwan Rice",
+      "half": 90,
+      "full": 140
+    },
+    {
+      "name": "Chicken Triple Rice",
+      "half": 120,
+      "full": 180
+    },
+    {
+      "name": "Chicken Manchurian Rice",
+      "half": 130,
+      "full": 190
+    },
+    {
+      "name": "Chicken Chilli Garlic Rice",
+      "half": 100,
+      "full": 160
+    },
+    {
+      "name": "Egg Fried Rice",
+      "half": 70,
+      "full": 110
+    },
+    {
+      "name": "Egg Sezwan Rice",
+      "half": 80,
+      "full": 130
+    },
+    {
+      "name": "Chicken Hakka Noodles",
+      "half": 90,
+      "full": 140
+    },
+    {
+      "name": "Chicken Sezwan Noodles",
+      "half": 80,
+      "full": 120
+    },
+    {
+      "name": "Chicken Triple Sezwan Noodles",
+      "half": 130,
+      "full": 190
+    },
+    {
+      "name": "Egg Hakka Noodles",
+      "half": 80,
+      "full": 120
+    },
+    {
+      "name": "Egg Sezwan Noodles",
+      "half": 80,
+      "full": 130
+    }
+  ],
+  "Chinese (Veg)": [
+    {
+      "name": "Veg Fried Rice",
+      "half": 60,
+      "full": 100
+    },
+    {
+      "name": "Veg Sezwan Rice",
+      "half": 70,
+      "full": 110
+    },
+    {
+      "name": "Veg Triple Sezwan Rice",
+      "half": 100,
+      "full": 160
+    },
+    {
+      "name": "Veg Manchurian Rice",
+      "half": 110,
+      "full": 150
+    },
+    {
+      "name": "Paneer Chilli Garlic Rice",
+      "half": 110,
+      "full": 150
+    },
+    {
+      "name": "Veg Singapore Rice",
+      "half": 100,
+      "full": 150
+    },
+    {
+      "name": "Veg Hakka Noodles",
+      "half": 70,
+      "full": 110
+    },
+    {
+      "name": "Veg Sezwan Noodles",
+      "half": 70,
+      "full": 110
+    },
+    {
+      "name": "Veg Singapore Noodles",
+      "half": 100,
+      "full": 150
+    },
+    {
+      "name": "Chilli Paneer Noodles",
+      "half": 100,
+      "full": 140
+    }
+  ],
+  "Spl. Dum Biryani (Non-Veg)": [
+    {
+      "name": "Hyderabadi Chicken Dum Biryani",
+      "half": 180,
+      "full": 350
+    },
+    {
+      "name": "Fry Chicken Dum Biryani",
+      "half": 190,
+      "full": 360
+    },
+    {
+      "name": "Tandoori Chicken Dum Biryani",
+      "half": 200,
+      "full": 380
+    },
+    {
+      "name": "Chicken Tikka Dum Biryani",
+      "half": 190,
+      "full": 370
+    },
+    {
+      "name": "Chicken Seekh Biryani",
+      "half": 200,
+      "full": 370
+    },
+    {
+      "name": "Mutton Dum Biryani",
+      "half": 160,
+      "full": 300
+    },
+    {
+      "name": "Chicken Ajmeri Pulao",
+      "half": 70,
+      "full": 140
+    }
+  ],
+  "Veg Biryani & Rice": [
+    {
+      "name": "Veg Dum Biryani",
+      "half": 70,
+      "full": 130
+    },
+    {
+      "name": "Paneer Dum Biryani",
+      "half": 80,
+      "full": 140
+    },
+    {
+      "name": "Paneer Tikka Biryani",
+      "half": 90,
+      "full": 160
+    },
+    {
+      "name": "Mix Veg Pulao",
+      "half": 60,
+      "full": 120
+    },
+    {
+      "name": "Paneer Pulao",
+      "half": 70,
+      "full": 130
+    },
+    {
+      "name": "Plain Rice",
+      "half": 50,
+      "full": 80
+    },
+    {
+      "name": "Jeera Rice",
+      "half": 60,
+      "full": 90
+    },
+    {
+      "name": "Lemon Rice",
+      "half": 70,
+      "full": 100
+    },
+    {
+      "name": "Dal Khichdi",
+      "half": 0,
+      "full": 100
+    },
+    {
+      "name": "Biryani Rice",
+      "half": 0,
+      "full": 80
+    }
+  ],
+  "Main Course Veg": [
+    {
+      "name": "Mix Veg",
+      "half": 0,
+      "full": 140
+    },
+    {
+      "name": "Veg Maratha",
+      "half": 0,
+      "full": 150
+    },
+    {
+      "name": "Veg Kolhapuri",
+      "half": 0,
+      "full": 140
+    },
+    {
+      "name": "Paneer",
+      "half": 0,
+      "full": 160
+    },
+    {
+      "name": "Mutter Paneer",
+      "half": 0,
+      "full": 180
+    },
+    {
+      "name": "Paneer Tikka Masala",
+      "half": 0,
+      "full": 220
+    },
+    {
+      "name": "Mushroom Masala",
+      "half": 0,
+      "full": 160
+    },
+    {
+      "name": "Veg Kofta",
+      "half": 0,
+      "full": 250
+    },
+    {
+      "name": "Shahi Paneer",
+      "half": 0,
+      "full": 280
+    }
+  ],
+  "Main Course Non-Veg": [
+    {
+      "name": "Chicken Masala",
+      "half": 140,
+      "full": 260
+    },
+    {
+      "name": "Chicken Handi",
+      "half": 180,
+      "full": 340
+    },
+    {
+      "name": "Chicken Tikka Masala",
+      "half": 160,
+      "full": 280
+    },
+    {
+      "name": "Chicken Lahori",
+      "half": 150,
+      "full": 280
+    },
+    {
+      "name": "Chicken Karachi",
+      "half": 150,
+      "full": 280
+    },
+    {
+      "name": "Butter Chicken",
+      "half": 220,
+      "full": 400
+    },
+    {
+      "name": "Chicken Kolhapuri",
+      "half": 160,
+      "full": 340
+    },
+    {
+      "name": "Murg Musallam",
+      "half": 260,
+      "full": 460
+    },
+    {
+      "name": "Kadai Chicken",
+      "half": 150,
+      "full": 260
+    },
+    {
+      "name": "Chicken Banjara Masala",
+      "half": 160,
+      "full": 300
+    },
+    {
+      "name": "Chicken Afghani Malai",
+      "half": 350,
+      "full": 600
+    },
+    {
+      "name": "Chicken Shukha",
+      "half": 140,
+      "full": 260
+    },
+    {
+      "name": "Mutton Korma",
+      "half": 260,
+      "full": 460
+    },
+    {
+      "name": "Mutton Kheema",
+      "half": 180,
+      "full": 320
+    },
+    {
+      "name": "Mutton Masala",
+      "half": 260,
+      "full": 450
+    },
+    {
+      "name": "Mutton Curry",
+      "half": 240,
+      "full": 420
+    },
+    {
+      "name": "Mutton Red Shukha",
+      "half": 180,
+      "full": 360
+    },
+    {
+      "name": "Fish Masala",
+      "half": 210,
+      "full": 380
+    },
+    {
+      "name": "Bangda Curry",
+      "half": 160,
+      "full": 300
+    }
+  ],
+  "Thali": [
+    {
+      "name": "Veg Thali",
+      "half": 0,
+      "full": 70
+    },
+    {
+      "name": "Special Veg Thali",
+      "half": 0,
+      "full": 140
+    },
+    {
+      "name": "Chicken Thali",
+      "half": 0,
+      "full": 160
+    },
+    {
+      "name": "Special Chicken Thali",
+      "half": 0,
+      "full": 240
+    },
+    {
+      "name": "Egg Thali",
+      "half": 0,
+      "full": 120
+    },
+    {
+      "name": "Fish Thali",
+      "half": 0,
+      "full": 160
+    },
+    {
+      "name": "Mutton Thali",
+      "half": 0,
+      "full": 300
+    }
+  ],
+  "Bread Basket": [
+    {
+      "name": "Tandoori Roti",
+      "half": 15,
+      "full": 20
+    },
+    {
+      "name": "Naan",
+      "half": 20,
+      "full": 25
+    },
+    {
+      "name": "Lachha Paratha",
+      "half": 30,
+      "full": 35
+    },
+    {
+      "name": "Garlic Naan",
+      "half": 50,
+      "full": 55
+    },
+    {
+      "name": "Cheese Garlic Naan",
+      "half": 80,
+      "full": 90
+    },
+    {
+      "name": "Kulcha",
+      "half": 20,
+      "full": 30
+    },
+    {
+      "name": "Kerala Paratha",
+      "half": 30,
+      "full": 40
+    },
+    {
+      "name": "Chapati",
+      "half": 10,
+      "full": 15
+    }
+  ],
+  "Fast Food": [
+    {
+      "name": "Masala Papad",
+      "half": 0,
+      "full": 40
+    },
+    {
+      "name": "French Fry",
+      "half": 0,
+      "full": 60
+    },
+    {
+      "name": "Aloo Paratha",
+      "half": 0,
+      "full": 50
+    },
+    {
+      "name": "Paneer Paratha",
+      "half": 0,
+      "full": 60
+    },
+    {
+      "name": "Mix Veg Paratha",
+      "half": 0,
+      "full": 80
+    },
+    {
+      "name": "Chicken Kheema Paratha",
+      "half": 0,
+      "full": 80
+    }
+  ],
+  "Egg Items": [
+    {
+      "name": "Boil Egg",
+      "half": 0,
+      "full": 40
+    },
+    {
+      "name": "Egg Bhurji",
+      "half": 0,
+      "full": 50
+    },
+    {
+      "name": "Egg Omelet",
+      "half": 0,
+      "full": 60
+    },
+    {
+      "name": "Egg Curry",
+      "half": 0,
+      "full": 100
+    },
+    {
+      "name": "Egg Masala",
+      "half": 0,
+      "full": 120
+    }
+  ],
+  "Special Combos": [
+    {
+      "name": "Chicken Masala, 3 Roti, Jeera Rice",
+      "half": 0,
+      "full": 170
+    },
+    {
+      "name": "Butter Chicken, 2 Butter Naan, Lemon Rice",
+      "half": 0,
+      "full": 220
+    },
+    {
+      "name": "Mix Veg, 3 Roti, Jeera Rice",
+      "half": 0,
+      "full": 150
+    },
+    {
+      "name": "Paneer Tikka Masala, 2 Butter Naan, Biryani Rice",
+      "half": 0,
+      "full": 200
+    }
+  ]
+}
